@@ -7,7 +7,9 @@ Jenkins will fetch from repository and run the tests using pipelines.
 
 ## Requirements
 Running Jenkins server
+
 Have ChromeDriver in /usr/local/bin/chromedriver
+
 Allow repository access
 
 ## Jenkins Setup
